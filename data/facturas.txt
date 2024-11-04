@@ -1,0 +1,11 @@
+Cliente: Nombre
+Dirección: Direccion
+----------------
+corral
+            14000
+gaseosa
+            6000
+----------------
+Precio Neto:  20000
+IVA:          3800
+Precio Total: 23800
